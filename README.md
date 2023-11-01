@@ -48,7 +48,7 @@ This project contains the model of Nao humanoid robot. For given joint angles, o
 	The initial pos of the robot is 
 	
 ![Image text](https://github.com/BorenJ/HumanoidMotionPlanning/blob/main/img/pos0.png)
-	The optimized pos is 
+   The optimized pos is 
 	
 ![Image text](https://github.com/BorenJ/HumanoidMotionPlanning/blob/main/img/pos1.png)	
 
