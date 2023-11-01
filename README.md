@@ -45,11 +45,10 @@ This project contains the model of Nao humanoid robot. For given joint angles, o
 	```
 	After this, a list of joint angles (robot leg angels) will be displayed in the VScode terminal. To visualize the robot posture, one can input it to the [Nao visualization MATLAB code](https://github.com/BorenJ/NaoSelfCalibration).  
 	
-	The initial pos of the robot is 
+	The initial pos and optimized pose of the robot are respectively
 	
 ![Image text](https://github.com/BorenJ/HumanoidMotionPlanning/blob/main/img/pos0.png)
-   The optimized pos is 
-	
+
 ![Image text](https://github.com/BorenJ/HumanoidMotionPlanning/blob/main/img/pos1.png)	
 
 
